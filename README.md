@@ -19,6 +19,11 @@ This Project aims to classify URLs as either phishing scams or legitimate. It us
   - `RandomForestClassifier`: 
   - `SVC`
 
+## The Data
+
+The dataset used in this project is the Web Page Phishing Detection dataset
+from kaggle, originally sourced from Mendeley Data (https://data.mendeley.com/datasets/c2gw7fy2j4/3).
+
 ## How to Run Code
 
 Code is intended to be run sequentially from start of notebook to the end. Many variable names are preserved throughout so running the code sequentially is important for the notebook to run smoothly. 
